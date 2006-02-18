@@ -46,6 +46,8 @@ You may distribute this code under the same terms as Perl itself.
 
 __DATA__
 
+=begin pod_to_ignore
+
 __compclass__
 package [% class %];
 

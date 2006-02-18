@@ -1,6 +1,6 @@
 ---
 name: Catalyst-View-Chart-Strip
-version: 0.03
+version: 0.04
 author:
   - 'Brandon L Black, C<blblack@gmail.com>'
 abstract: A Catalyst View for Chart::Strip graphics
@@ -15,7 +15,7 @@ provides:
     file: lib/Catalyst/Helper/View/Chart/Strip.pm
   Catalyst::View::Chart::Strip:
     file: lib/Catalyst/View/Chart/Strip.pm
-    version: 0.03
+    version: 0.04
   Catalyst::View::Chart::Strip::Example:
     file: lib/Catalyst/View/Chart/Strip/Example.pm
 generated_by: Module::Build version 0.2611
