@@ -1,4 +1,5 @@
 package Catalyst::View::Chart::Strip::Example;
+use strict;
 # POD Only, no code here.
 1;
 
